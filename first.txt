@@ -2,3 +2,4 @@ gitの練習を初めて行くぜ。
 こんにちは。
 ・git add
 ・git commit
+・git diff
